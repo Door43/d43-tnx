@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tnx:home|Door43 (tnx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tnx|d43-tnx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tnx/archive/master.zip|d43-tnx.zip]]
+
+**Recent Changes**
+{{changes>ns = tnx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tnx|Ethnologue data]]
+
